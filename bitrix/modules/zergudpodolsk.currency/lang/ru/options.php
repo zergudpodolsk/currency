@@ -1,0 +1,24 @@
+<?php
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS'] = 'Основные настройки';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_SCHEDULE'] = 'Расписание обновления курса';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY1'] = 'Понедельник';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY2'] = 'Вторник';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY3'] = 'Среда';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY4'] = 'Четверг';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY5'] = 'Пятница';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY6'] = 'Суббота';
+$MESS['ZGP_CUR_MODULE_TAB_SETTINGS_DAY7'] = 'Воскресенье';
+$MESS['ZGP_CUR_MODULE_PROC'] = 'Служебные процедуры';
+$MESS['ZGP_CUR_MODULE_TAB_AGENTS'] = 'Агенты';
+$MESS['ZGP_CUR_MODULE_TAB_AGENTS_TITLE'] = 'Информация о работе агентов модуля';
+$MESS['ZGP_CUR_MODULE_AGENT_NAME'] = 'Агент загрузки курсов валют';
+$MESS['ZGP_CUR_AGENT_ACTIVE'] = 'Активен';
+$MESS['ZGP_CUR_AGENT_ACTIVE_YES'] = 'да';
+$MESS['ZGP_CUR_AGENT_ACTIVE_NO'] = 'нет';
+$MESS['ZGP_CUR_AGENT_LAST_EXEC'] = 'Последний запуск';
+$MESS['ZGP_CUR_AGENT_NEXT_EXEC'] = 'Следующий запуск';
+$MESS['ZGP_CUR_AGENT_PLANNED_NEXT_EXEC'] = 'Первый запуск';
+$MESS['ZGP_CUR_AGENT_ACTIVATE'] = 'Активировать агента';
+$MESS['ZGP_CUR_AGENT_DEACTIVATE'] = 'Отключить агента';
+$MESS['ZGP_CUR_AGENT_ABSENT'] = 'Внимание! Агент загрузки курсов валют отсутствует!';
+$MESS['ZGP_CUR_AGENT_CREATE_AGENT'] = 'Добавить агента';
